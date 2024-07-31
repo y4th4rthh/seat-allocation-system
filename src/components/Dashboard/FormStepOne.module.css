@@ -1,0 +1,17 @@
+.changeDirection {
+    display: flex;
+}
+
+.changeAlign {
+    align-self: normal;
+}
+
+@media (max-width: 700px) {
+    .changeDirection {
+        flex-direction: column;
+    }
+
+    .changeAlign {
+        align-self: center;
+    }
+}
