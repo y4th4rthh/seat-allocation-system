@@ -38,12 +38,25 @@ This command allows you to preview the production build locally.
 
 **Navigate to the backend directory:**
 
+## Prerequisites
+
+Make sure you have the following installed on your machine:
+- Java Development Kit (JDK) 11 or higher
+- Apache Maven
+
 ### `cd ../backend`
 
 **Run the Seat Allocation File in any IDE**
 
 ### `The Intellij IDE will detect the required packages and install it`
 Now start the springboot application.
+
+### Step 1: Build the Project
+
+Run the following command to install the necessary dependencies and build the project:
+
+```sh
+mvn clean install
 
 ## Learn More
 
