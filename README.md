@@ -1,5 +1,7 @@
 # seat-allocation-system
 
+![Project Preview](./preview/GEE.png)
+
 ## Cloning and Running the Vite Project Locally
 
 ### `git clone https://github.com/y4th4rthh/seat-allocation-system`
