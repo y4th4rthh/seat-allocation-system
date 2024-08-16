@@ -1,4 +1,4 @@
-# seat-allocation-system
+# Gujarat Entrance Exam
 
 ![Project Preview](./preview/GEE.png)
 
